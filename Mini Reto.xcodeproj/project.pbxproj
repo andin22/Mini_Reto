@@ -47,6 +47,7 @@
 		A9CF63431D2EEEF70005A167 /* Mini RetoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mini RetoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9CF63471D2EEEF70005A167 /* Mini_RetoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini_RetoUITests.swift; sourceTree = "<group>"; };
 		A9CF63491D2EEEF70005A167 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A9CF63551D2EF4AA0005A167 /* mini Reto (numeros).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "mini Reto (numeros).playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +100,7 @@
 			children = (
 				A9CF63271D2EEEF70005A167 /* AppDelegate.swift */,
 				A9CF63291D2EEEF70005A167 /* ViewController.swift */,
+				A9CF63551D2EF4AA0005A167 /* mini Reto (numeros).playground */,
 				A9CF632B1D2EEEF70005A167 /* Main.storyboard */,
 				A9CF632E1D2EEEF70005A167 /* Assets.xcassets */,
 				A9CF63301D2EEEF70005A167 /* LaunchScreen.storyboard */,
